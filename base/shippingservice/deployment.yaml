@@ -28,7 +28,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: aabathorat22/shippingservice:0ac31c6da0cbab6bd373bdd8ec11e43264d2af64
+        image: aabathorat22/shippingservice:0ef340ff8e9ad5d9df51d796ce185b71481ade96
         ports:
         - containerPort: 50051
         env:
